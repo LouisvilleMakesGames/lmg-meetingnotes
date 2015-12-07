@@ -1,3 +1,10 @@
+#Generated Frontend Output
 build
+
+#Dev Environment libs
 node_modules
+typings
 npm-debug.log*
+
+#Sensitive config files
+dbconfig.js

@@ -7,6 +7,7 @@ let HomePage = ({ children }) => (<div>
 	<div>
 		<Link to="/">Home</Link>
 		<Link to="/contact-us">Contact Us</Link>
+		<Link to="/meeting">Meeting</Link>
 	</div>
 	{children}
 </div>);

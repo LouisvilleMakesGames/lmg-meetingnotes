@@ -1,0 +1,10 @@
+//Copy this file to dbconfig.js and edit it to connect to your
+//  mysql DB 
+module.exports = {
+    connectionLimit: 100, 
+    host: 'localhost',
+    user: 'DBUSERNAME'
+    password: 'SECRETPW',
+    database: 'DBSCHEMANAME',
+    debug: false
+};
